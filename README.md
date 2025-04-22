@@ -1,4 +1,4 @@
-# Exe3
+# Map2DCore
 
 This class serves as a simple intermediary, connecting and simplifying the interaction between the 2D map implementation and the Map2D interface.
 Designed for the course, it uses static methods to enable a "Singleton-like" implementation. 
