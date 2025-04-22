@@ -9,7 +9,7 @@ import java.util.Iterator;
  * 
  * @author
  * ID1: 326648532
- * ID2: 
+ * ID2: 214266819 
  * */
 public class MyMap2D implements Map2D{
 	private static final int WIDTH = 0;
