@@ -11,7 +11,7 @@ import java.awt.Color;
  * 
  * @author
  * ID1: 326648532
- * ID2: 
+ * ID2: 214266819
  */
 public class Ex3 {
 	private static  Map2D _map = null;
